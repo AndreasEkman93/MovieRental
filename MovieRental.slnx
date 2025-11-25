@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="MovieRentalApi/MovieRentalApi.csproj" />
+  <Project Path="MovieRentalClient/MovieRentalClient.csproj" />
+</Solution>
